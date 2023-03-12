@@ -20,7 +20,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/DataGrip-009639?style=flat&logo=DataGrip&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-ff8c00?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -28,7 +28,7 @@
 </div>
 <div align=center>
 	<a href="https://d5ngjoo.tistory.com/">
-		<img src="https://img.shields.io/badge/Tistory-FF3633?style=flat&logo=Tistory&logoColor=white" />
+		<img src="https://img.shields.io/badge/Tech%20Blog-ff7f50?style=flat&logo=Tistory&logoColor=white" />
 	</a>
 	<a href="mailto:d5ngjoo@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
