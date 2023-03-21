@@ -38,6 +38,6 @@
   <br>
 </div>
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=paik-dongjoo&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paik-dongjoo&&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api?username=paik-dongjoo&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paik-dongjoo&theme=gruvbox&layout=compact">
 </div>
